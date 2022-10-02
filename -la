@@ -1,0 +1,54 @@
+[33mcommit 2f0ec5d2ebd066ae30e8e6bbf51858b47953cbb6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32mbranchForMerge[m[33m)[m
+Merge: 528271f 1c5ddc8
+Author: Sergey <ketxavel@gmail.com>
+Date:   Sun Oct 2 18:03:42 2022 +0300
+
+    NewMa
+
+[33mcommit 1c5ddc8a0230e5027b9e7923802ab370caf0d212[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Sergey Astashov <ketxavel@gmail.com>
+Date:   Sun Oct 2 17:26:25 2022 +0300
+
+    new file in main
+
+[33mcommit 528271f0eef5deea7287e74a432b2c7e0dd18e29[m[33m ([m[1;31morigin/branchForMerge[m[33m)[m
+Author: Sergey Astashov <ketxavel@gmail.com>
+Date:   Sun Oct 2 17:23:27 2022 +0300
+
+    add Res
+
+[33mcommit 63469e1a4b268fe4117a98a8078caf2c01e088b6[m
+Author: Sergey Astashov <ketxavel@gmail.com>
+Date:   Sun Oct 2 17:20:31 2022 +0300
+
+    add Set.txt
+
+[33mcommit 6cccfceca4b6d31c3db915536a671499c5b8f869[m
+Author: Sergey Astashov <ketxavel@gmail.com>
+Date:   Sat Oct 1 15:29:08 2022 +0300
+
+    adn new content
+
+[33mcommit ff0dde43556ac63a082fe38cc314b6d316197246[m
+Author: Sergey Astashov <ketxavel@gmail.com>
+Date:   Sat Oct 1 15:05:14 2022 +0300
+
+    delete NEW.md
+
+[33mcommit 8ab8aea3834b3e36fc672cae5cdbb62253c7aee9[m
+Author: Sergey Astashov <ketxavel@gmail.com>
+Date:   Sat Oct 1 01:03:41 2022 +0300
+
+    add NEW.md
+
+[33mcommit 08a955c2164e2c855604ab44ec8fddfe82fe9c39[m
+Author: Sergey Astashov <ketxavel@gmail.com>
+Date:   Fri Sep 30 23:48:47 2022 +0300
+
+    added PEOPLE.md
+
+[33mcommit 0e66ec92aa3bd09748223d8e5ee5686741d6c92f[m
+Author: Sergey Astashov <ketxavel@gmail.com>
+Date:   Fri Sep 30 20:52:01 2022 +0300
+
+    add README.md
